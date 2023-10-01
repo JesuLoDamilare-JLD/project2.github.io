@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+main{
+    background-color: #186F65;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+h1{
+    text-align: center;
+}
+.form{
+    background-color: #B5CB99;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 9px;
+}
+/* Testing it out */
+/* seeing this */
